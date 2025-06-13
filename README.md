@@ -1,6 +1,8 @@
 # Beginning
 This is my first Git Repository!!
 Gotta learn this
-ttt
+
+Can we make a Simple pong game?
+all right let's try!
 
 
